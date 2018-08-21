@@ -17,7 +17,7 @@
 		<derby.version>10.14.2.0</derby.version>
 		
 		<uid>aniket_tendulkar</uid>
-		<pwd>Shraddhanu@26</pwd>
+		<pwd></pwd>
 	</properties>
 
 	<build>
